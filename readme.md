@@ -1,4 +1,7 @@
 # PHP - Les boucles
+
+Preview : https://htmlpreview.github.io/?https://github.com/elixman/Exo3-php-Les-boucles/blob/master/index.php
+
 ## Exercice 1
 Créer une variable et l'initialiser à 0.  
 Tant que cette variable n'atteint pas 10, il faut :
